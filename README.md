@@ -126,7 +126,9 @@ The original datasets are available through Agreste.
 
 Raw microdata and intermediate datasets are not distributed in this repository. Redistribution conditions must be verified before including these files.
 
-The R scripts have been adapted for repository use, but full end-to-end reproducibility has not yet been verified.
+All eight R scripts have been successfully executed sequentially in a clean R session using R 4.2.2. Package versions and software environment details are available in [sessionInfo.txt](sessionInfo.txt).
+
+One lag-specific regression produces a convergence warning, and standard errors may differ across versions of `fixest`. The original econometric specifications have been retained.
 
 ## Author
 
