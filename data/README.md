@@ -58,4 +58,6 @@ Additional data requirements and processing steps are described in the R scripts
 
 ## Reproducibility
 
-The scripts have been adapted for repository use, but full end-to-end reproducibility has not yet been verified.
+All eight R scripts have been successfully executed sequentially in a clean R session using the original datasets and supplementary weather data.
+
+The software environment and package versions are documented in [sessionInfo.txt](../sessionInfo.txt). Known estimation limitations are described in the [main README](../README.md).
