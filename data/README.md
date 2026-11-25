@@ -4,7 +4,7 @@
 
 The main data source is the French Farm Accountancy Data Network (RICA — Réseau d'information comptable agricole), published by Agreste, the statistical service of the French Ministry of Agriculture.
 
-Official source: https://agreste.agriculture.gouv.fr/
+Official source: [Agreste — RICA public anonymised microdata](https://agreste.agriculture.gouv.fr/agreste-web/servicon/I.2/listeTypeServicon/)
 
 ## Raw data
 
