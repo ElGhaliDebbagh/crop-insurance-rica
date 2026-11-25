@@ -53,3 +53,28 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+
+# Raw data and intermediate datasets
+/data/*
+!/data/README.md
+
+*.csv
+*.txt
+*.rds
+*.RDS
+*.rda
+*.xlsx
+*.xls
+*.parquet
+*.zip
+
+# macOS system files
+.DS_Store
+.AppleDouble
+__MACOSX/
+
+# Local configuration and credentials
+.Rprofile
+.env.*
+!.env.example
+
