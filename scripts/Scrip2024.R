@@ -318,7 +318,6 @@ summary(probit_3)
 
 # Comparaison des trois modèles
 cat("Probit 1 (sans IHS, avec NREG) — obs:", nobs(probit_1), "\n")
-cat("Probit 2 (IHS, avec NREG)      — obs:", nobs(probit_2), "\n")
 cat("Probit 3 (IHS, variables clim) — obs:", nobs(probit_3), "\n")
 
 
